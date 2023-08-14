@@ -1,0 +1,8 @@
+/*
+ * Public API Surface of test-lib
+ */
+export * from './lib/test-lib.service';
+export * from './lib/test-lib.component';
+export * from './lib/truncate.pipe';
+export * from './lib/test-lib.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3Rlc3QtbGliL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyx3QkFBd0IsQ0FBQztBQUN2QyxjQUFjLDBCQUEwQixDQUFDO0FBQ3pDLGNBQWMscUJBQXFCLENBQUM7QUFDcEMsY0FBYyx1QkFBdUIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgdGVzdC1saWJcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi90ZXN0LWxpYi5zZXJ2aWNlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL3Rlc3QtbGliLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi90cnVuY2F0ZS5waXBlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL3Rlc3QtbGliLm1vZHVsZSc7XG4iXX0=
